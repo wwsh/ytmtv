@@ -12,10 +12,9 @@ This plugin allows of continuous YouTube video streaming  on your site.
 
 == Description ==
 
-This plugin creates a continuous YouTube show on your site. It gets videos from YouTube, searching by using the keywords
-you entered in the admin. After a video stops, it immediately grabs another random one and plays on.
-A simple MTV fashion show.
-Created for demonstration purposes for the Wordfence company.
+This plugin creates a continuous YouTube show on your site. It gets videos from the YouTube API search results,
+querying with keywords from the admin. Videos are played randomly, one after one. Sort of MTV style.
+Created for demonstration purposes only.
 
 == Installation ==
 
